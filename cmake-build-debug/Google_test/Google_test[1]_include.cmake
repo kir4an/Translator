@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/Google_test/Google_test[1]_tests.cmake")
+  include("C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/Google_test/Google_test[1]_tests.cmake")
+else()
+  add_test(Google_test_NOT_BUILT Google_test_NOT_BUILT)
+endif()

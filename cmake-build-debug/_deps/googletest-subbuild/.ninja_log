@@ -1,0 +1,23 @@
+# ninja log v5
+3500	3580	7403427782610522	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	16a975873da8b9f3
+3423	3500	7403427781821654	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	49cd51b70431d23
+2	101	7403427747806961	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ee4f0ddfe04c29f2
+2	101	7403427747806961	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ee4f0ddfe04c29f2
+102	3263	7403427779454739	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/03597a01ee50ed33e9dfd640b249b4be3799d395.zip	db5c22ad18f6e1a0
+3264	3341	7403427780230013	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	901f2952ca1d87ea
+102	3263	7403427779454739	googletest-populate-prefix/src/03597a01ee50ed33e9dfd640b249b4be3799d395.zip	db5c22ad18f6e1a0
+102	3263	7403427779454739	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	db5c22ad18f6e1a0
+102	3263	7403427779454739	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	db5c22ad18f6e1a0
+3264	3341	7403427780230013	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	901f2952ca1d87ea
+3341	3423	7403427781053748	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	23e149bd32319462
+3341	3423	7403427781053748	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	23e149bd32319462
+3423	3500	7403427781821654	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	49cd51b70431d23
+3742	3847	7403427785292431	CMakeFiles/googletest-populate-complete	141fb5d36b1161f1
+3500	3580	7403427782610522	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	16a975873da8b9f3
+3580	3659	7403427783417235	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2f4f98a915945b1
+3580	3659	7403427783417235	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2f4f98a915945b1
+3659	3742	7403427784234932	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	c2a7e79d3d4dfdde
+3659	3742	7403427784234932	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	c2a7e79d3d4dfdde
+3742	3847	7403427785292431	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	141fb5d36b1161f1
+3742	3847	7403427785292431	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	141fb5d36b1161f1
+3742	3847	7403427785292431	C:/Users/kiril/OneDrive/Рабочий стол/tribe/TvSU_Translator-699f3dd9dd70fc4c170257021ac614b6f9d6487c/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	141fb5d36b1161f1

@@ -1,0 +1,18 @@
+# ninja log v5
+5	887	7403449625928679	CMakeFiles/run_exe.dir/main.cpp.obj	e847f322dee45e23
+80	1361	7403427893797163	Translator/CMakeFiles/Translator.dir/src/AtomsPrint.cpp.obj	32dc079ad8e22d36
+9	1108	7403433967904107	LexerLib/CMakeFiles/LexerLib.dir/src/Lexer.cpp.obj	8ca3eb2a55a00090
+91	1647	7403427896685598	Translator/CMakeFiles/Translator.dir/src/ExprGrammar.cpp.obj	3344e777be13385e
+32	1509	7403427895238182	LexerLib/CMakeFiles/LexerLib.dir/src/LexGraph.cpp.obj	b567d346d115218f
+57	1806	7403427898280481	Translator/CMakeFiles/Translator.dir/src/ASMPrint.cpp.obj	63535fc0863081f
+33	1113	7403449628200287	Translator/CMakeFiles/Translator.dir/src/Translator.cpp.obj	f1e2bb6ff930bc12
+5	197	7403440835018909	LexerLib/libLexerLib.a	af319488753d9e68
+113	1312	7403449630027527	Translator/CMakeFiles/Translator.dir/src/LangGrammar.cpp.obj	45e89450ce18293f
+119	1436	7403449631419253	Translator/CMakeFiles/Translator.dir/src/Functions.cpp.obj	7193f993b2a58ee6
+1436	1776	7403449634862850	Translator/libTranslator.a	457820c6cf92c17e
+1776	2192	7403449638903263	run_exe.exe	93b634a78b822d7e
+3	854	7403440782329865	build.ninja	7b902d266c9c7e66
+66	794	7403449624924187	Translator/CMakeFiles/Translator.dir/src/printAtoms.cpp.obj	7eb0fc5fde458396
+107	1110	7403449628169808	Translator/CMakeFiles/Translator.dir/src/GrammExpr.cpp.obj	be456f8d18764e11
+41	1208	7403449629162627	Translator/CMakeFiles/Translator.dir/src/printAsm.cpp.obj	e7b4500cafd3aebb
+28	1713	7403440685650187	LexerLib/CMakeFiles/LexerLib.dir/src/Graph.cpp.obj	4d7a75392da16eb7
